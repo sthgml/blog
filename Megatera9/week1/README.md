@@ -15,13 +15,13 @@
 - ✅ 강의 듣기 1.node
 - ✅ 강의 듣기 2.TypeScript
 - ✅ 강의 듣기 3.React
-- [ ] 강의 듣기 4.
-- [ ] 강의 듣기 5.
+- ✅ 강의 듣기 4.JEST
+- ✅ 강의 듣기 5.
 - ✅ DevNote 작성 1.
 - ✅ DevNote 작성 2.
 - ✅ DevNote 작성 3.
-- [ ] DevNote 작성 4.
-- [ ] DevNote 작성 5.
+- ✅ DevNote 작성 4.
+- ✅ DevNote 작성 5.
   
 ### 2-2. output
 - [ ] 과제 제출
