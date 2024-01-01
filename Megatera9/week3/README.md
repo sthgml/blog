@@ -63,6 +63,18 @@
         - 오늘 보다 내일의 '나'가 더 성장하기위해 하는 것
     ```
 
+- [01_React Component](https://sohee-parks-organization.gitbook.io/devnote/9/3/01_reactcomponent)
+
+    ```plain
+    1. 아토믹디자인시스템
+    2. RESTful API vs GraphQL
+    4. JSON
+    5. 컴포넌트 계층구조
+    6. DSL
+    7. 선언형 vs 명령형 프로그래밍
+    8. 컴포넌트와 Props
+    ```
+
 ## 4. 이번 주에 느낀 것
 
 - 분산
